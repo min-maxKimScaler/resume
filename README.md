@@ -1,2 +1,2 @@
-# 이력
+# 이력서
 Jun Hee's resume
